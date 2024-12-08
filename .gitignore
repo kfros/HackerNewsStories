@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.csproj.nuget.dgspec.json
+*.cache
+*.exe
+*.dll
+*.assets.cache
+*.props
+bin
+obj
+packages
+*vs
+*.suo
+*.user
